@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-My name is Gabriela L. Paresqui, I'm a brazilian Project Manager. I have a bachelor's degree in Computer Science and now i'am studying to get a job as a data analyst
+My name is Gabriela L. Paresqui, I'm a brazilian Project Manager. I have a bachelor's degree in Computer Science and now i'am studying to get a job as a data analyst.
 
 - 🔭 I’m currently working as a Project Manager on agriculture field
 - 🌱 I’m currently learning Python, Data Analysis, Data Science, Machine Learning and OpenCV
