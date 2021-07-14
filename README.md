@@ -11,6 +11,6 @@ My name is Gabriela L. Paresqui, I'm a brazilian Project Manager. I have a bache
 - 🌱 I’m currently learning Python, Data Analysis, Data Science, Machine Learning and OpenCV
 - 💬 Ask me about anything. I'm happy to help
 - 📫 How to reach me: gabriela.paresqui@gmail.com
-- ⚡ I regulary write articles on http://datamaster.epizy.com/
+- 👑 I regularly write articles about Data Analytics, Data Science, Python and more on http://datamaster.epizy.com/
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Paresqui&show_icons=true&count_private=true&theme=blue-green" />
