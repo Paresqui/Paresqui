@@ -21,4 +21,5 @@ My name is Gabriela L. Paresqui, I'm a brazilian Project Manager. I have a bache
 I'm currently learning Python and I'm developing new projects and ideas with this language. Within this vast universe of computing, I have great interest in Data Analytics, Data Science, Machine Learning, Artificial Intelligence and process automation using Python.
 
 I will always be posting new projects here according to my evolution in the programming world and I hope to post great projects in the future as well. 
-I have a blog where I regularly post articles on technology, tutorials on Python, data analysis, process automation, and my experiences in each of these topics.
+I have a blog where I regularly post articles on technology, tutorials on Python, data analysis, process automation and about my experiences in each of these topics.
+Check out my blog on http://datamaster.epizy.com/
