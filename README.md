@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 My name is Gabriela L. Paresqui, I'm a brazilian 
-Computer scientist, and now i'am studying to get a position in the data analytics area.
+Computer Scientist, and now i'am studying to get a position in the data analytics area.
 
 - 🔭 I’m currently working as a Project Manager on agriculture field
 - 🌱 I’m currently learning Python, Data Analysis, Data Science, Cloud Data Engineer, Machine Learning and OpenCV
