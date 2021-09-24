@@ -26,3 +26,5 @@ I have a blog where I regularly post articles on technology, tutorials on Python
 Check out my blog on http://datamaster.epizy.com/
 
 ### Projects
+
+- **Web App com Streamlit S&P 500** 
