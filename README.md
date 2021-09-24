@@ -27,4 +27,4 @@ Check out my blog on http://datamaster.epizy.com/
 
 ### Projects
 
-- **Web App de dados financeiros com Streamlit ** 
+- **Web App de dados financeiros com Streamlit** 
