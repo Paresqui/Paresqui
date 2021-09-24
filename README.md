@@ -29,3 +29,4 @@ Check out my blog on http://datamaster.epizy.com/
 
 - **Web App de dados financeiros com Streamlit:**  https://github.com/Paresqui/Projeto-Streamlit-SP-500
 - **Análise de dados do dataset Gapminder:** https://github.com/Paresqui/Projeto-Analise-de-Dados-Gapminder
+- **Detecção de objetos utilizando OpenCV:** https://github.com/Paresqui/Projeto-de-Detec-o-de-Objetos-Utilizando-OpenCV
