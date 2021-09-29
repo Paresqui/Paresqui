@@ -25,8 +25,4 @@ I will always be posting new projects here according to my evolution in the prog
 I have a blog where I regularly post articles on technology, tutorials on Python, data analysis, process automation and  my experiences in each of these topics.
 Check out my blog on http://datamaster.epizy.com/
 
-### Projects
 
-- **Web App de dados financeiros com Streamlit:**  https://github.com/Paresqui/Projeto-Streamlit-SP-500
-- **Análise de dados do dataset Gapminder:** https://github.com/Paresqui/Projeto-Analise-de-Dados-Gapminder
-- **Detecção de objetos utilizando OpenCV:** https://github.com/Paresqui/Projeto-de-Detec-o-de-Objetos-Utilizando-OpenCV
