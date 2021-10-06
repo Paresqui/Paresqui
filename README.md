@@ -19,8 +19,9 @@ Computer Scientist, and now i'am studying to get a position in the data analytic
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Paresqui&label=Profile%20views&color=0e75b6&style=flat" alt="Paresqui" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Paresqui" alt="Paresqui" /></a> </p>
 
+<p align="left"> <a href="https://www.python.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python" width="40" height="40"/> 
 
-### Personal interests 
+  ### Personal interests 
 
 I'm currently learning Python and I'm developing new projects and ideas with this language. Within this vast universe of computing, I have great interest in Data Analytics, Data Engineering, Data Science, Machine Learning, Artificial Intelligence and process automation using Python.
 
