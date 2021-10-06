@@ -23,8 +23,11 @@ Computer Scientist, and now i'am studying to get a position in the data analytic
 <p align="left"> <a href="https://www.python.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python" width="40" height="40"/>  <a href="https://www.postgresql.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="PostgreSQL" width="40" height="40"/>  <a href="https://www.mysql.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://pandas.pydata.org/static/img/pandas_secondary.svg" alt="Pandas" width="60" height="40"/> </a> <a href="https://streamlit.io/" target="_blank"> <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" alt="Streamlit" width="50" height="35"/> </a> <a href="https://seaborn.pydata.org/index.html#" target="_blank"> <img src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg" alt="html5" width="60" height="45"/> 
 <a href="https://powerbi.microsoft.com/pt-br/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" alt="PowerBI" width="40" height="40"/>
  <a href="https://www.tableau.com/pt-br" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="PowerBI" width="40" height="40"/>
- <a href="https://www.tableau.com/pt-br" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="PowerBI" width="40" height="40"/>
- ### Personal interests 
+ <a href="https://plotly.com/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/5997976?s=200&v=4" alt="Plotly" width="40" height="40"/>
+ 
+  
+  
+  ### Personal interests 
 
 I'm currently learning Python and I'm developing new projects and ideas with this language. Within this vast universe of computing, I have great interest in Data Analytics, Data Engineering, Data Science, Machine Learning, Artificial Intelligence and process automation using Python.
 
