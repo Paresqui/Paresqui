@@ -28,17 +28,18 @@ Computer Scientist, and now i'am studying to get a position in the data analytic
 <a href="https://numpy.org/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/288276?s=200&v=4" alt="NumPy" width="40" height="40"/> 
 <a href="https://www.scipy.org/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/288277?s=200&v=4" alt="SciPy" width="40" height="40"/>   
 <a href="https://scikit-learn.org/stable/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/365630?s=200&v=4" alt="ScikitLearn" width="60" height="45"/>    
-<a href="https://www.statsmodels.org/stable/index.html" target="_blank"> <img src="https://www.statsmodels.org/stable/_images/statsmodels-logo-v2.svg" alt="Statsmodels" width="60" height="40"/>  
-<a href="https://docs.opencv.org/master/index.html" target="_blank"> <img src="https://opencv.org/wp-content/uploads/2020/07/OpenCV_logo_black-2.png" alt="OpenCV" width="50" height="40"/>    
-<a href="https://pandera.readthedocs.io/en/stable/" target="_blank"> <img src="https://pandera.readthedocs.io/en/stable/_static/pandera-logo.png" alt="Pandera" width="50" height="45"/> 
+<a href="https://www.statsmodels.org/stable/index.html" target="_blank"> <img src="https://www.statsmodels.org/stable/_images/statsmodels-logo-v2.svg" alt="Statsmodels" width="60" height="40"/>  </p>
+<a href="https://docs.opencv.org/master/index.html" target="_blank"> <img src="https://opencv.org/wp-content/uploads/2020/07/OpenCV_logo_black-2.png" alt="OpenCV" width="50" height="40"/> </p>   
+<a href="https://pandera.readthedocs.io/en/stable/" target="_blank"> <img src="https://pandera.readthedocs.io/en/stable/_static/pandera-logo.png" alt="Pandera" width="50" height="45"/> </p>
 <a href="https://www.tensorflow.org/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/15658638?s=200&v=4" alt="Tensorflow" width="40" height="40"/> </p>   
  
+
 ### Personal interests 
 
 I'm currently learning Python and I'm developing new projects and ideas with this language. Within this vast universe of computing, I have great interest in Data Analytics, Data Engineering, Data Science, Machine Learning, Artificial Intelligence and process automation using Python.
 
 I will always be posting new projects here according to my evolution in the programming world and I hope to post great projects in the future as well. 
 I have a blog where I regularly post articles on technology, tutorials on Python, data analysis, process automation and  my experiences in each of these topics.
-Check out my blog on http://datamaster.epizy.com/ </p>
+Check out my blog on http://datamaster.epizy.com/ 
 
 
