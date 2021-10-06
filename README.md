@@ -27,7 +27,7 @@ Computer Scientist, and now i'am studying to get a position in the data analytic
 <a href="https://matplotlib.org/stable/index.html" target="_blank"> <img src="https://avatars.githubusercontent.com/u/215947?s=200&v=4" alt="Matplotlib" width="40" height="40"/>
 <a href="https://numpy.org/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/288276?s=200&v=4" alt="NumPy" width="40" height="40"/> 
 <a href="https://www.scipy.org/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/288277?s=200&v=4" alt="SciPy" width="40" height="40"/>   
-<a href="https://scikit-learn.org/stable/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/365630?s=200&v=4" alt="ScikitLearn" width="60" height="60"/>    
+<a href="https://scikit-learn.org/stable/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/365630?s=200&v=4" alt="ScikitLearn" width="60" height="50"/>    
  
   
 ### Personal interests 
