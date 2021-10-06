@@ -15,6 +15,7 @@ Computer Scientist, and now i'am studying to get a position in the data analytic
 - 👑 I regularly write articles about Data Analytics, Data Science, Python and more on http://datamaster.epizy.com/
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Paresqui&show_icons=true&count_private=true&theme=blue-green" />
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Paresqui&show_icons=true&locale=en&layout=compact" alt="Paresqui" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Paresqui&label=Profile%20views&color=0e75b6&style=flat" alt="Paresqui" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Paresqui" alt="Paresqui" /></a> </p>
