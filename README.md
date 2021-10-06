@@ -27,8 +27,10 @@ Computer Scientist, and now i'am studying to get a position in the data analytic
 <a href="https://matplotlib.org/stable/index.html" target="_blank"> <img src="https://avatars.githubusercontent.com/u/215947?s=200&v=4" alt="Matplotlib" width="40" height="40"/>
 <a href="https://numpy.org/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/288276?s=200&v=4" alt="NumPy" width="40" height="40"/> 
 <a href="https://www.scipy.org/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/288277?s=200&v=4" alt="SciPy" width="40" height="40"/>   
+<a href="https://scikit-learn.org/stable/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/365630?s=200&v=4" alt="ScikitLearn" width="40" height="40"/>    
+ 
   
-  ### Personal interests 
+### Personal interests 
 
 I'm currently learning Python and I'm developing new projects and ideas with this language. Within this vast universe of computing, I have great interest in Data Analytics, Data Engineering, Data Science, Machine Learning, Artificial Intelligence and process automation using Python.
 
