@@ -25,7 +25,7 @@ Computer Scientist, and now i'am studying to get a position in the data analytic
 <a href="https://www.tableau.com/pt-br" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="PowerBI" width="40" height="40"/>
 <a href="https://plotly.com/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/5997976?s=200&v=4" alt="Plotly" width="40" height="40"/>
 <a href="https://matplotlib.org/stable/index.html" target="_blank"> <img src="https://avatars.githubusercontent.com/u/215947?s=200&v=4" alt="Matplotlib" width="40" height="40"/>
- 
+<a href="https://numpy.org/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/288276?s=200&v=4" alt="NumPy" width="40" height="40"/> 
   
   
   ### Personal interests 
