@@ -42,7 +42,7 @@ I will always be posting new projects here according to my evolution in the prog
 I have a blog where I regularly post articles on technology, tutorials on Python, data analysis, process automation and  my experiences in each of these topics. 
  
 ###dsfdfd
-Check out my blog on <font color="#2D35A8">[DataMaster](http://datamaster.epizy.com/)</font> 
+Check out my blog on <p<font color="#2D35A8">[DataMaster](http://datamaster.epizy.com/)</font> </p>
 
 
 
