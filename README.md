@@ -30,8 +30,9 @@ Computer Scientist, and now i'am studying to get a position in the data analytic
 <a href="https://scikit-learn.org/stable/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/365630?s=200&v=4" alt="ScikitLearn" width="60" height="45"/>    
 <a href="https://www.statsmodels.org/stable/index.html" target="_blank"> <img src="https://www.statsmodels.org/stable/_images/statsmodels-logo-v2.svg" alt="Statsmodels" width="60" height="40"/>  
 <a href="https://docs.opencv.org/master/index.html" target="_blank"> <img src="https://opencv.org/wp-content/uploads/2020/07/OpenCV_logo_black-2.png" alt="OpenCV" width="50" height="40"/>    
-
-  ### Personal interests 
+<a href="https://pandera.readthedocs.io/en/stable/" target="_blank"> <img src="https://pandera.readthedocs.io/en/stable/_static/pandera-logo.png" alt="Pandera" width="40" height="40"/> 
+  
+ ### Personal interests 
 
 I'm currently learning Python and I'm developing new projects and ideas with this language. Within this vast universe of computing, I have great interest in Data Analytics, Data Engineering, Data Science, Machine Learning, Artificial Intelligence and process automation using Python.
 
