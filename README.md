@@ -40,7 +40,7 @@ I'm currently learning Python and I'm developing new projects and ideas with thi
  
 I will always be posting new projects here according to my evolution in the programming world and I hope to post great projects in the future as well. 
 I have a blog where I regularly post articles on technology, tutorials on Python, data analysis, process automation and  my experiences in each of these topics.
- Check out my blog on <p href="http://datamaster.epizy.com/" </p>
+ Check out my blog on 
 
 
 
