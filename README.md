@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-My name is Gabriela L. Paresqui, I'm a brazilian 
+My name is Gabriela, i'm a brazilian 
 Computer Scientist, and now i'am studying to get a position in the data analytics area.
 
 - 🔭 I’m currently working as a Administrative Assistant 
