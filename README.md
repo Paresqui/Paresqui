@@ -14,7 +14,7 @@ Computer Scientist, and now i'am studying to get a position in the data analytic
 - 📫 How to reach me: gabriela.paresqui@gmail.com
 - 👑 I regularly write articles about Data Analytics, Data Science, Python and more on https://gabrielaparesqui.medium.com/
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Paresqui&show_icons=true&count_private=true&theme=monokai" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Paresqui&show_icons=true&count_private=true&theme=radical" />
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Paresqui&label=Profile%20views&color=0e75b6&style=flat" alt="Paresqui" /> </p>
