@@ -12,9 +12,9 @@ Computer Scientist, and now i'am studying to get a position in the data analytic
 - 🌱 I’m currently learning Python, Data Analysis, Data Science, Cloud Data Engineer, Machine Learning and more.
 - 💬 Ask me about anything. I'm happy to help
 - 📫 How to reach me: gabriela.paresqui@gmail.com
-- 👑 I regularly write articles about Data Analytics, Data Science, Python and more on http://datamaster.epizy.com/
+- 👑 I regularly write articles about Data Analytics, Data Science, Python and more on https://gabrielaparesqui.medium.com/
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Paresqui&show_icons=true&count_private=true&theme=blue-green" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Paresqui&show_icons=true&count_private=true&theme=monokai" />
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Paresqui&label=Profile%20views&color=0e75b6&style=flat" alt="Paresqui" /> </p>
