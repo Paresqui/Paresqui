@@ -8,7 +8,6 @@ Here are some ideas to get you started:
 My name is Gabriela, i'm a brazilian 
 Computer Scientist, and now i'am studying to get a position in the data analytics area.
 
-- 🔭 I’m currently working as a Administrative Assistant 
 - 🌱 I’m currently learning Python, Data Analysis, Data Science, Cloud Data Engineer, Machine Learning and more.
 - 💬 Ask me about anything. I'm happy to help
 - 📫 How to reach me: gabriela.paresqui@gmail.com
