@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 My name is Gabriela, i'm a brazilian 
-Computer Scientist.
+UX/UI Designer.
 
 - 🌱 I’m currently learning Python, Data Analysis, Data Science, Cloud Data Engineer, Machine Learning and more.
 - 💬 Ask me about anything. I'm happy to help
