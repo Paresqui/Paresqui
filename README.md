@@ -11,7 +11,6 @@ Computer Scientist.
 - 🌱 I’m currently learning Python, Data Analysis, Data Science, Cloud Data Engineer, Machine Learning and more.
 - 💬 Ask me about anything. I'm happy to help
 - 📫 How to reach me: gabriela.paresqui@gmail.com
-- 👑 I regularly write articles about Data Analytics, Data Science, Python and more on https://gabrielaparesqui.medium.com/
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Paresqui&show_icons=true&count_private=true&theme=radical" />
 
