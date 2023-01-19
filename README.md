@@ -17,7 +17,7 @@ My name is Gabriela, i am a passionate UX/UI Designer dedicated to creating amaz
 ### Technologies
 <p align="left"> <a href="https://www.python.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python" width="40" height="40"/>  <a href="https://www.postgresql.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="PostgreSQL" width="40" height="40"/>  <a href="https://www.mysql.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://pandas.pydata.org/static/img/pandas_secondary.svg" alt="Pandas" width="60" height="40"/> </a> <a href="https://streamlit.io/" target="_blank"> <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" alt="Streamlit" width="50" height="35"/> </a> <a href="https://seaborn.pydata.org/index.html#" target="_blank"> <img src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg" alt="html5" width="60" height="45"/> 
 <a href="https://powerbi.microsoft.com/pt-br/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" alt="PowerBI" width="40" height="40"/>
-<a href="https://www.tableau.com/pt-br" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="PowerBI" width="40" height="40"/>
+ <a href="https://miro.com/pt/" target="_blank"> <img src="https://seeklogo.com/images/M/miro-logo-A7556EE400-seeklogo.com.png" alt="Miro" width="40" height="40"/>
 <a href="https://plotly.com/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/5997976?s=200&v=4" alt="Plotly" width="40" height="40"/>
 <a href="https://matplotlib.org/stable/index.html" target="_blank"> <img src="https://avatars.githubusercontent.com/u/215947?s=200&v=4" alt="Matplotlib" width="40" height="40"/>
 <a href="https://numpy.org/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/288276?s=200&v=4" alt="NumPy" width="40" height="40"/> 
@@ -28,7 +28,7 @@ My name is Gabriela, i am a passionate UX/UI Designer dedicated to creating amaz
 <a href="https://pandera.readthedocs.io/en/stable/" target="_blank"> <img src="https://pandera.readthedocs.io/en/stable/_static/pandera-logo.png" alt="Pandera" width="50" height="45"/> 
 <a href="https://www.tensorflow.org/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/15658638?s=200&v=4" alt="Tensorflow" width="40" height="40"/> </p>   
  <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/> </p>   
- <a href="https://miro.com/pt/" target="_blank"> <img src="https://seeklogo.com/images/M/miro-logo-A7556EE400-seeklogo.com.png" alt="Miro" width="40" height="40"/>
+
 
 ### Personal interests 
 
