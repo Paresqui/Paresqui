@@ -31,11 +31,15 @@ My name is Gabriela, i am a passionate UX/UI Designer dedicated to creating amaz
 
 ### Personal interests 
 
-I'm currently learning Python and I'm developing new projects and ideas with this language. Within this vast universe of computing, I have great interest in Data Analytics, Data Engineering, Data Science, Machine Learning, Artificial Intelligence and process automation using Python. 
+My personal interests in the field of UX and UI are creating intuitive and effective user experiences. I am always interested in learning about new technologies and trends in the field, including prototyping tools, usability testing, user research, data analysis and more.
+
+In terms of design processes, I am a fan of agile methodologies and user-centered design, as I believe these processes allow for more effective collaboration with users and development teams. I am also passionate about interaction design and like to incorporate animations and micro-interactions in my projects to enhance the user experience.
+
+I am always looking for new opportunities to apply my skills and knowledge, and I am excited to continue learning and growing as a UX/UI designer. I will always be posting new projects here according to my evolution in the programming world and I hope to post great projects in the future as well. 
+
  
-I will always be posting new projects here according to my evolution in the programming world and I hope to post great projects in the future as well. 
-I have a blog where I regularly post articles on technology, tutorials on Python, data analysis, process automation and  my experiences in each of these topics. 
- 
+
+
 
 
 
