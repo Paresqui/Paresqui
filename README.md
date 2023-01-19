@@ -5,12 +5,8 @@
 
 Here are some ideas to get you started:
 -->
-My name is Gabriela, i'm a brazilian 
-UX/UI Designer.
+My name is Gabriela, i am a passionate UX/UI Designer dedicated to creating amazing and intuitive user experiences. With experience in data analysis and user interface design, I constantly work to understand user needs and create effective solutions. I am always learning and improving my skills to provide the best for my clients and projects.
 
-- 🌱 I’m currently learning Python, Data Analysis, Data Science, Cloud Data Engineer, Machine Learning and more.
-- 💬 Ask me about anything. I'm happy to help
-- 📫 How to reach me: gabriela.paresqui@gmail.com
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Paresqui&show_icons=true&count_private=true&theme=radical" />
 
