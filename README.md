@@ -28,7 +28,7 @@ My name is Gabriela, i am a passionate UX/UI Designer dedicated to creating amaz
 <a href="https://pandera.readthedocs.io/en/stable/" target="_blank"> <img src="https://pandera.readthedocs.io/en/stable/_static/pandera-logo.png" alt="Pandera" width="50" height="45"/> 
 <a href="https://www.tensorflow.org/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/15658638?s=200&v=4" alt="Tensorflow" width="40" height="40"/> </p>   
  <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/> </p>   
- 
+ <a href="https://miro.com/pt/" target="_blank"> <img src="https://seeklogo.com/images/M/miro-logo-A7556EE400-seeklogo.com.png" alt="Miro" width="40" height="40"/>
 
 ### Personal interests 
 
