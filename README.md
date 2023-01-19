@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-My name is Gabriela, i am a passionate UX/UI Designer dedicated to creating amazing and intuitive user experiences. With experience in data analysis and user interface design, I constantly work to understand user needs and create effective solutions. I am always learning and improving my skills to provide the best for my clients and projects.
+My name is Gabriela, i am a passionate UX/UI Designer dedicated to creating amazing and intuitive user experiences. With experience in data analysis and user interface design, I constantly work to understand user needs and create effective solutions. I am always learning and improving my skills to provide the best for my clients and projects. You can visit my [website portfolio](https://www.gabrielaparesqui.com.br/) to see my design projects.
 
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Paresqui&show_icons=true&count_private=true&theme=radical" />
