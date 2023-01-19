@@ -27,6 +27,7 @@ My name is Gabriela, i am a passionate UX/UI Designer dedicated to creating amaz
 <a href="https://docs.opencv.org/master/index.html" target="_blank"> <img src="https://opencv.org/wp-content/uploads/2020/07/OpenCV_logo_black-2.png" alt="OpenCV" width="50" height="40"/>  
 <a href="https://pandera.readthedocs.io/en/stable/" target="_blank"> <img src="https://pandera.readthedocs.io/en/stable/_static/pandera-logo.png" alt="Pandera" width="50" height="45"/> 
 <a href="https://www.tensorflow.org/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/15658638?s=200&v=4" alt="Tensorflow" width="40" height="40"/> </p>   
+ <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/> </p>   
  
 
 ### Personal interests 
